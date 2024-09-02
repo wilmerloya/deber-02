@@ -6,7 +6,7 @@ matriz = [
 ]
 
 # Valor que estamos buscando
-valor_buscado = 8
+valor_buscado = 3
 
 # Inicializar variables para rastrear la posición del valor
 fila_encontrada = -1
